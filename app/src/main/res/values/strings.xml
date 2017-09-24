@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GarbO</string>
+    <string name="GPSAlertDialogTitle">GPS ALERT</string>
+    <string name="GPSAlertDialogMessage">GPS ALERT MESSAGE</string>
+</resources>
